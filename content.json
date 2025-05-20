@@ -1,9 +1,9 @@
 {
-    "apps": [
-        "knf.hydra.module.animeflv",
-        "knf.hydra.module.jkanime",
-        "knf.hydra.module.pornhub",
-        "knf.hydra.module.ws.hentaila",
-        "knf.hydra.module.ws.veohentai"
-    ]
+  "apps": [
+    "knf.hydra.module.animeflv",
+    "knf.hydra.module.jkanime",
+    "knf.hydra.module.pornhub",
+    "knf.hydra.module.ws.hentaila",
+    "knf.hydra.module.ws.veohentai"
+  ]
 }

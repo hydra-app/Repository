@@ -1,0 +1,36 @@
+{
+  "apps": [
+    "knf.hydra.module.animeflv",
+    "knf.hydra.module.jkanime",
+    "knf.hydra.module.pornhub",
+    "knf.hydra.module.ws.hentaila",
+    "knf.hydra.module.ws.veohentai"
+  ],
+  "info": {
+    "knf.hydra.module.animeflv": {
+      "name": "Animeflv",
+      "versionCode": 2,
+      "versionName": "1.0.1"
+    },
+    "knf.hydra.module.jkanime": {
+      "name": "JKAnime",
+      "versionCode": 3,
+      "versionName": "1.0.2"
+    },
+    "knf.hydra.module.pornhub": {
+      "name": "Pornhub",
+      "versionCode": 2,
+      "versionName": "1.0.1"
+    },
+    "knf.hydra.module.ws.hentaila": {
+      "name": "Hentaila",
+      "versionCode": 1,
+      "versionName": "1.4"
+    },
+    "knf.hydra.module.ws.veohentai": {
+      "name": "WatchHentai",
+      "versionCode": 1,
+      "versionName": "1.0"
+    }
+  }
+}
