@@ -10,27 +10,32 @@
     "knf.hydra.module.animeflv": {
       "name": "Animeflv",
       "versionCode": 2,
-      "versionName": "1.0.1"
+      "versionName": "1.0.1",
+      "enabled": true
     },
     "knf.hydra.module.jkanime": {
       "name": "JKAnime",
-      "versionCode": 3,
-      "versionName": "1.0.2"
+      "versionCode": 6,
+      "versionName": "1.0.6",
+      "enabled": true
     },
     "knf.hydra.module.pornhub": {
       "name": "Pornhub",
       "versionCode": 2,
-      "versionName": "1.0.1"
+      "versionName": "1.0.1",
+      "enabled": false
     },
     "knf.hydra.module.ws.hentaila": {
       "name": "Hentaila",
       "versionCode": 1,
-      "versionName": "1.4"
+      "versionName": "1.4",
+      "enabled": false
     },
     "knf.hydra.module.ws.veohentai": {
       "name": "WatchHentai",
       "versionCode": 1,
-      "versionName": "1.0"
+      "versionName": "1.0",
+      "enabled": false
     }
   }
 }
