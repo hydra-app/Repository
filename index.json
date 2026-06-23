@@ -11,7 +11,7 @@
       "name": "Animeflv",
       "versionCode": 2,
       "versionName": "1.0.1",
-      "enabled": true
+      "enabled": false
     },
     "knf.hydra.module.jkanime": {
       "name": "JKAnime",
