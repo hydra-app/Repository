@@ -15,8 +15,8 @@
     },
     "knf.hydra.module.jkanime": {
       "name": "JKAnime",
-      "versionCode": 7,
-      "versionName": "1.0.7",
+      "versionCode": 8,
+      "versionName": "1.0.8",
       "enabled": true
     },
     "knf.hydra.module.pornhub": {
